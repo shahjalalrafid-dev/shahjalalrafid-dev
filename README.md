@@ -44,18 +44,16 @@ I leverage these tools to build modern web applications:
 * 🎨 **Figma to Responsive UI:** Converting complex modern designs into pixel-perfect, mobile-first web components.
 * 🛠️ **Portfolio Applications:** Building full-stack web applications to demonstrate end-to-end capabilities for remote clients and employers.
 
-
 ### 📊 GitHub Analytics
 
-A real-time look at my contributions, streaks, and the languages I write in most:
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahjalalrafid-dev&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahjalalrafid-dev&theme=radium" alt="GitHub Profile Details" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahjalalrafid-dev&theme=radium&hide_border=true" alt="GitHub Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahjalalrafid-dev&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+ 
 </div>
+
+
+
 
 ### 📫 Let's Connect!
 

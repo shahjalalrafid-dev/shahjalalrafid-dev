@@ -38,7 +38,7 @@ I leverage these tools to build modern web applications:
 
 ### ⚡ Featured Projects & What I'm Working On
 
-* 📚 **[Book Vibe Project]([https://book-vibe-project-1r1cd8i2p-rafid5.vercel.app/]):** An interactive book discovery and review application built with **Next.js** and modern UI design principles.
+* 📚 **[Book Vibe Project](https://book-vibe-project-1r1cd8i2p-rafid5.vercel.app/):** An interactive book discovery and review application built with **Next.js** and modern UI design principles.
 * 🚀 **[SaaS-Pro Project](https://saas-pro-project.netlify.app/):** A modern, high-performance SaaS landing page and platform built using **React**, and **Tailwind CSS**.
 * 🎓 **MERN Stack Mastery:** Deep-diving into backend architecture (**Node.js**, **Express.js**, and **MongoDB**) through **Creative IT** & **Programming Hero**.
 * 🎨 **Figma to Responsive UI:** Converting complex modern designs into pixel-perfect, mobile-first web components.

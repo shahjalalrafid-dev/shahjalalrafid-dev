@@ -38,8 +38,8 @@ I leverage these tools to build modern web applications:
 
 ### ⚡ Featured Projects & What I'm Working On
 
-* 📚 **[Book Vibe Project](https://github.com/shahjalalrafid-dev):** An interactive book discovery and review application built with **React.js** and modern UI design principles.
-* 🚀 **[SaaS-Pro Project](https://github.com/shahjalalrafid-dev):** A modern, high-performance SaaS landing page and platform built using **Next.js**, **React**, and **Tailwind CSS**.
+* 📚 **[Book Vibe Project](https://github.com/shahjalalrafid-dev):** An interactive book discovery and review application built with **Next.js** and modern UI design principles.
+* 🚀 **[SaaS-Pro Project](https://github.com/shahjalalrafid-dev):** A modern, high-performance SaaS landing page and platform built using **React**, and **Tailwind CSS**.
 * 🎓 **MERN Stack Mastery:** Deep-diving into backend architecture (**Node.js**, **Express.js**, and **MongoDB**) through **Creative IT** & **Programming Hero**.
 * 🎨 **Figma to Responsive UI:** Converting complex modern designs into pixel-perfect, mobile-first web components.
 * 🛠️ **Portfolio Applications:** Building full-stack web applications to demonstrate end-to-end capabilities for remote clients and employers.
